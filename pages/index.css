@@ -398,3 +398,11 @@
   line-height: 20px;
   margin: 108px 80px 60px;
 }
+@import url(/vendor/normalize.css);
+@import url(/blocks/page.css);
+@import url(/blocks/header.css);
+@import url(/blocks/nav.css);
+@import url(/blocks/recipes.css);
+@import url(/blocks/reservation.css);
+@import url(/blocks/form.css);
+@import url(/blocks/footer.css);
